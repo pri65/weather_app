@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/pri65/weather_app#readme",
   "dependencies": {
+    "body-parser": "^1.20.1",
     "express": "^4.18.2"
   }
 }
