@@ -1,0 +1,22 @@
+{
+  "name": "weather_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pri65/weather_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pri65/weather_app/issues"
+  },
+  "homepage": "https://github.com/pri65/weather_app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
